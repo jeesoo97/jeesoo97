@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hello I'm jeesoo👋
 # 🔭 I’m currently working on PIPET&CMCCPT for 3 weeks
 # 🌱 I’m currently learning pharmacometrics and data science
 <!--
 **jeesoo97/jeesoo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+# 
 # 
 # 
 - 👯 I’m looking to collaborate on ...
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
